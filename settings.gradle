@@ -1,0 +1,2 @@
+rootProject.name = "ViewCollision"
+include ':app'
