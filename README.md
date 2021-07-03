@@ -1,4 +1,4 @@
-# ViewCollision
+# 图片碰撞效果
 此项目是一个图片在屏幕中做自由运动效果的库，该图片View继承与AppCompatImageView，涵盖功能如下：
 
 1. 可加载gif地址，可附带加载停靠屏幕边缘时的静态地址
