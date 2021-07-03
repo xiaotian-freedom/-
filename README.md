@@ -9,4 +9,4 @@
 6. 与RecycleView联动，监听列表滚动或静止状态，滚动列表时图片从半停靠状态变为全停靠状态，同时图片自动设置为初始gif图或静态图
 
 ## 效果如图所示：
-
+![碰撞图](https://github.com/xiaotian-freedom/ViewCollision/blob/main/screenshot/bubble-tick.gif)
